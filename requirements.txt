@@ -1,0 +1,5 @@
+requests
+psycopg
+python-dotenv
+python-telegram-bot
+google-generativeai
